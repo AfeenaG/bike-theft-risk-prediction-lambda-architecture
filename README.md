@@ -1,7 +1,8 @@
-📌 Project Overview
+# 📌 Project Overview
 
 Designed and implemented a scalable end-to-end data pipeline to predict bike theft risk in Toronto using Lambda Architecture.
 
+# Data Source	Toronto Open Data
 📂 Dataset
 
 Source: Toronto Open Data
@@ -12,15 +13,15 @@ Time Range: 1975–2025
 
 This system combines:
 
-📊 Batch analytics for historical insights
+# 📊 Batch analytics for historical insights
 
 ⚡ Real-time streaming for instant predictions
 
-🤖 Machine learning for risk classification
+# 🤖 Machine learning for risk classification
 
 ➡️ Outcome: Enables data-driven policing strategies and a real-time risk prediction app for users
 
-🎯 Business Impact
+# 🎯 Business Impact
 - Identified high-risk theft zones (Downtown waterfront, condos)
 - Discovered peak theft window (nighttime)
 - Highlighted misalignment in policing strategies
@@ -29,7 +30,8 @@ This system combines:
 
 🏗️ Architecture (Lambda Design)
 
-Add your architecture diagram below 👇
+![Architecture](Images/Final-pipeline2.png)
+
 
 🔹 Key Design
 - Cold Path (Batch): Historical processing + model training
@@ -67,15 +69,9 @@ Add your architecture diagram below 👇
 |Machine Learning | Random Forest (pyspark ML) | 
 |Databases |MongoDB (NoSQL), SQLite (RDBMS)) | 
 |Environment|	Ubuntu, Oracle VirtualBox | 
+|Visualization libraries|	folium, matplotlib| 
 
 
-Category	Tools
-Big Data	Apache Spark, PySpark
-Streaming	Spark Structured Streaming
-Machine Learning	Random Forest (Scikit-learn / Spark ML)
-Databases	MongoDB (NoSQL), SQLite (RDBMS)
-Environment	Ubuntu, Oracle VirtualBox
-Data Source	Toronto Open Data
 🤖 Machine Learning
 Model Comparison
 Model	Accuracy	Issue	Status
