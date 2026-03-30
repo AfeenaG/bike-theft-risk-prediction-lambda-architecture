@@ -72,25 +72,30 @@ This system combines:
 |Visualization libraries|	folium, matplotlib| 
 
 
-🤖 Machine Learning
-Model Comparison
-Model	Accuracy	Issue	Status
-Model A (with location)	100%	Data Leakage	❌ Rejected
-Model B (no location)	88.76%	Generalizable	✅ Deployed
-🔍 Key Insight
+# 🤖 Machine Learning
+## Model Comparison
+| Model	| Accuracy | Issue	| 	Status  | 
+|---|---|---|
+|Model A (with location) | 100% |	Data Leakage| ❌ Rejected |
+|Model B (no location)	 | 88.76% |Generalizable| ✅ Deployed |
 
-Perfect accuracy ≠ good model
+
+## 🔍 Key Insight
+
+- Perfect accuracy ≠ good model
 ➡️ Removing location features improved real-world reliability
 
 🔄 Real-Time Simulation
 
+# Simulation
 To validate scalability, a clickstream simulator was built using PySpark:
 
-25,000+ simulated user events
-Realistic behavioral patterns
-Time-based event generation
-Stress-tested streaming pipeline
-🧠 Key Features
+- 25,000+ simulated user events
+- Realistic behavioral patterns
+- Time-based event generation
+- Stress-tested streaming pipeline
+  
+# 🧠 Feature Engineering
 📍 Neighborhood Risk Segmentation (Quantiles)
 ⏰ Temporal Feature Engineering (Time Buckets)
 🚲 High-Cardinality Reduction (Top-N encoding)
