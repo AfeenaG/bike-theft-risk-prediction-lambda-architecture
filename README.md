@@ -86,6 +86,7 @@ This system combines:
 ## 🔍 Key Insight
 
 - Perfect accuracy ≠ good model
+  
 ➡️ Removing location features improved real-world reliability
 
 🔄 Real-Time Simulation
@@ -115,7 +116,8 @@ To validate scalability, a clickstream simulator was built using PySpark:
 
 📸 Application Concept
 
-Add your app mockup here
+![App 1](Images/App1.png)
+![App 2](Images/App2.png)
 
 “Bike Guard” App
 
