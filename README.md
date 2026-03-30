@@ -106,7 +106,7 @@ To validate scalability, a clickstream simulator was built using PySpark:
 ⚡ Real-Time Risk Prediction API-ready pipeline
 
 
-🚀 Why This Project Stands Out
+# 🚀 Why This Project Stands Out
 
 ✔ End-to-end pipeline (data → ML → streaming → serving)
 
