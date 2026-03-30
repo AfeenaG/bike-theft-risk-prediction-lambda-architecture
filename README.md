@@ -2,6 +2,25 @@
 
 Designed and implemented a scalable end-to-end data pipeline to predict bike theft risk in Toronto using Lambda Architecture.
 
+toronto-traffic-injury-risk-analysis
+│
+├── README.md
+├── Images
+│   └── App1.png
+│   └── App2.png
+│   └── BikeThefts.png
+│   └── Final-pipeline2.png
+│   └── Theft by the hour of day.png
+│   └── Thefts by Location Type at Night.png
+│   └── Thefts by time of day.png
+├── Notebooks
+│   ├── Random Forest Stream to Mongo.ipynb
+│   ├── DataCleaning_final.ipynb
+│   ├── DataVisualization_RDMS.ipynb
+│   ├── SyntheticStream_final.ipynb
+└── report
+    └──Predicting Bike Theft: A Case Study on Toronto Bicycle Theft.pdf
+
 # Data Source	Toronto Open Data
 📂 Dataset
 
