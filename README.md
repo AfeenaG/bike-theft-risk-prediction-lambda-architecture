@@ -5,13 +5,17 @@ Designed and implemented a scalable end-to-end data pipeline to predict bike the
 📂 Dataset
 
 Source: Toronto Open Data
+
 Records: 39K → 31K after cleaning
+
 Time Range: 1975–2025
 
 This system combines:
 
 📊 Batch analytics for historical insights
+
 ⚡ Real-time streaming for instant predictions
+
 🤖 Machine learning for risk classification
 
 ➡️ Outcome: Enables data-driven policing strategies and a real-time risk prediction app for users
