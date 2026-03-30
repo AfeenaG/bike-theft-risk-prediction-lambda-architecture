@@ -58,9 +58,9 @@ Add your architecture diagram below 👇
 
 ⚙️ Tech Stack
 
-| Category 1 | Tools 2 | 
+| Category | Tools  | 
 |---|---|
-| Big Data, Apache Spark | Big Data, PySpark | 
+| Big Data | Apache Spark, PySpark | 
 | Streaming, Col 1 | Row 2, Col 2 |
 
 Category	Tools
