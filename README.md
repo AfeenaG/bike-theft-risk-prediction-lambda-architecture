@@ -76,10 +76,11 @@ This system combines:
 
 ## Model Comparison
 
-| Model	| Accuracy | Issue	| 	Status  | 
-|---|---|---|
-|Model A (with location) | 100% |	Data Leakage| ❌ Rejected |
-|Model B (no location)	 | 88.76% |Generalizable| ✅ Deployed |
+
+| Model | Accuracy | Issue | Status |
+| :--- | :--- | :--- | :--- |
+| Model A (with location) | 100% | Data Leakage | ❌ Rejected |
+| Model B (no location) | 88.76% | Generalizable | ✅ Deployed |
 
 
 ## 🔍 Key Insight
