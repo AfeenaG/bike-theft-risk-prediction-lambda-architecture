@@ -55,9 +55,14 @@ Add your architecture diagram below 👇
 
 ![Theft By Geographic Hotspot](Images/BikeThefts.png)
 
-💡 Tip: Keep all images in /images folder for clean repo structure
 
 ⚙️ Tech Stack
+
+| Category 1 | Tools 2 | 
+|---|---|
+| Big Data, Apache Spark | Big Data, PySpark | 
+| Streaming, Col 1 | Row 2, Col 2 |
+
 Category	Tools
 Big Data	Apache Spark, PySpark
 Streaming	Spark Structured Streaming
