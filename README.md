@@ -121,18 +121,18 @@ To validate scalability, a clickstream simulator was built using PySpark:
 
 “Bike Guard” App
 
-Users input bike details + location
-System returns instant theft risk level
-Designed for simplicity + real-world usability
+- Users input bike details
+- System returns instant theft risk level
+- Designed for simplicity + real-world usability
 
 🧪 Key Learnings
-Data quality directly impacts ML performance
-Feature selection is critical for generalization
-Lambda Architecture enables scalable hybrid systems
-Real-time systems require trade-offs between latency and accuracy
+- Data quality directly impacts ML performance
+- Feature selection is critical for generalization
+- Lambda Architecture enables scalable hybrid systems
+- Real-time systems require trade-offs between latency and accuracy
 
 👤 Author
 
-Afeena
+Afeena Gafoor
 Master’s in Business Analytics & AI
-💼 Transitioning into Data Analytics / Data Engineering
+
