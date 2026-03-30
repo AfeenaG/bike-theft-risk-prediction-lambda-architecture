@@ -61,7 +61,13 @@ Add your architecture diagram below 👇
 | Category | Tools  | 
 |---|---|
 | Big Data | Apache Spark, PySpark | 
-| Streaming, Col 1 | Row 2, Col 2 |
+|Streaming | Spark Structured Streaming | 
+|Machine Learning | Random Forest (pyspark ML) | 
+|Databases |MongoDB (NoSQL), SQLite (RDBMS) | 
+|Machine Learning | Random Forest (pyspark ML) | 
+|Databases |MongoDB (NoSQL), SQLite (RDBMS)) | 
+|Environment|	Ubuntu, Oracle VirtualBox | 
+
 
 Category	Tools
 Big Data	Apache Spark, PySpark
