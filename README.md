@@ -73,7 +73,9 @@ This system combines:
 
 
 # 🤖 Machine Learning
+
 ## Model Comparison
+
 | Model	| Accuracy | Issue	| 	Status  | 
 |---|---|---|
 |Model A (with location) | 100% |	Data Leakage| ❌ Rejected |
