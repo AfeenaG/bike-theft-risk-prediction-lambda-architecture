@@ -36,15 +36,24 @@ Add your architecture diagram below 👇
 - Hot Path (Streaming): Real-time inference pipeline
 - Serving Layer: MongoDB for fast access to predictions
 
-📊 Data Visualizations
+# 📊 Data Visualizations
 
-## 🕒 Theft by Time of Day
+## 🕒 Theft by Time  of Day
 
 ![Theft By Time of Day](Images/Thefts%20by%20time%20of%20day.png)
 
-🏢 Theft by Location Type
 
-📍 Geographic Hotspots
+## 🕒 Theft by Hour of Day
+
+![Theft By Hour of Day](Images/Theft%20by%20the%20hour%20of%20day.png)
+
+## 🏢 Theft by Location Type
+
+![Theft By Location](Images/Thefts%20by%20Location%20Type%20at%20Night.png)
+
+## 📍 Geographic Hotspots
+
+![Theft By Geographic Hotspot](Images/BikeThefts.png)
 
 💡 Tip: Keep all images in /images folder for clean repo structure
 
