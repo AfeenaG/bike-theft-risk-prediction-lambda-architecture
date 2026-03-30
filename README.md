@@ -109,9 +109,13 @@ To validate scalability, a clickstream simulator was built using PySpark:
 🚀 Why This Project Stands Out
 
 ✔ End-to-end pipeline (data → ML → streaming → serving)
+
 ✔ Real-world problem with actionable insights
+
 ✔ Handles both batch + real-time workloads
+
 ✔ Demonstrates data engineering + ML + analytics
+
 ✔ Addresses data leakage (advanced ML concept)
 
 📸 Application Concept
