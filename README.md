@@ -41,7 +41,7 @@ Add your architecture diagram below 👇
 Add your charts here (keep them grouped + labeled clearly)
 
 🕒 Theft by Time of Day
-![Theft By Time of Day](Images/Thefts%2by%2time%2of%2day.png)
+![Theft By Time of Day](Images/Thefts%20by%20time%20of%20day.png)
 
 🏢 Theft by Location Type
 
