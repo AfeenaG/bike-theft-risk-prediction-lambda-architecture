@@ -22,7 +22,7 @@ bike-theft-risk-prediction-lambda-architecture
 │   └── App1.png
 │   └── App2.png
 │   └── BikeThefts.png
-│   └── Final-pipeline2.png
+│   └── Big_Data_Pipeline_Writeup.png
 │   └── Theft by the hour of day.png
 │   └── Thefts by Location Type at Night.png
 │   └── Thefts by time of day.png
@@ -64,7 +64,7 @@ This system combines:
 
 🏗️ Architecture (Lambda Design)
 
-![Architecture](Images/Final-pipeline2.png)
+![Architecture](Images/Big_Data_Pipeline_Writeup.png)
 
 
 🔹 Key Design
