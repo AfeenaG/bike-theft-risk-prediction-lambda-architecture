@@ -14,6 +14,10 @@ bike-theft-risk-prediction-lambda-architecture
 │   └── MongoDB_query1_return_1_row_partA.png
 │   └── Parquet_folder_path.png
 │   └── Parquet_write.png
+│   └── ML_ModelB.png
+│   └── ML_ModelA.png
+│   └── Stream_setup.png
+│   └── MongoDB_write.png
 ├── Images
 │   └── App1.png
 │   └── App2.png
