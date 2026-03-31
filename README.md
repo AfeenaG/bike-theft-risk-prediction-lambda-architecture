@@ -123,9 +123,13 @@ To validate scalability, a clickstream simulator was built using PySpark:
 - Stress-tested streaming pipeline
   
 # 🧠 Feature Engineering
+
 📍 Neighborhood Risk Segmentation (Quantiles)
+
 ⏰ Temporal Feature Engineering (Time Buckets)
+
 🚲 High-Cardinality Reduction (Top-N encoding)
+
 ⚡ Real-Time Risk Prediction API-ready pipeline
 
 
