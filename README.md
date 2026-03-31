@@ -7,6 +7,13 @@ Designed and implemented a scalable end-to-end data pipeline to predict bike the
 bike-theft-risk-prediction-lambda-architecture
 │
 ├── README.md
+├── Conde_Snippets
+│   └── MongoDB_Live_stream_record_count.png
+│   └── MongoDB_query1_return_1_row_partC.png
+│   └── MongoDB_query1_return_1_row_partB.png
+│   └── MongoDB_query1_return_1_row_partA.png
+│   └── Parquet_folder_path.png
+│   └── Parquet_write.png
 ├── Images
 │   └── App1.png
 │   └── App2.png
