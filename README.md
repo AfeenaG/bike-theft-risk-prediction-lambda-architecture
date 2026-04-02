@@ -163,7 +163,8 @@ To validate scalability, a clickstream simulator was built using PySpark:
 
 “Bike Guard” App
 
-- Users input bike details
+- Users input bike details and premise/location type
+- Clicks on "Submit Assessment"
 - System returns instant theft risk level
 - Designed for simplicity + real-world usability
 
