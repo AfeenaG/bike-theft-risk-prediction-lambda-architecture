@@ -21,6 +21,7 @@ bike-theft-risk-prediction-lambda-architecture
 ├── Images
 │   └── App1.png
 │   └── App2.png
+│   └──mockups_updated
 │   └── BikeThefts.png
 │   └── Big_Data_Pipeline_Writeup.png
 │   └── Theft by the hour of day.png
@@ -158,7 +159,7 @@ To validate scalability, a clickstream simulator was built using PySpark:
 
 📸 Application Concept
 
-![App 1](Images/mockups.png)
+![App 1](Images/mockups_updated.png)
 
 
 “Bike Guard” App
