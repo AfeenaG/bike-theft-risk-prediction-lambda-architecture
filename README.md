@@ -158,8 +158,8 @@ To validate scalability, a clickstream simulator was built using PySpark:
 
 📸 Application Concept
 
-![App 1](Images/App1.png)
-![App 2](Images/App2.png)
+![App 1](Images/Mockups.png)
+
 
 “Bike Guard” App
 
