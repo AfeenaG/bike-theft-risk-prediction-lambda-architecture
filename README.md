@@ -21,7 +21,7 @@ bike-theft-risk-prediction-lambda-architecture
 ├── Images
 │   └── App1.png
 │   └── App2.png
-│   └──mockups_updated
+│   └── mockups_updated
 │   └── BikeThefts.png
 │   └── Big_Data_Pipeline_Writeup.png
 │   └── Theft by the hour of day.png
