@@ -34,6 +34,8 @@ bike-theft-risk-prediction-lambda-architecture
 │   ├── SyntheticStream_final.ipynb
 └── report
     └──Predicting Bike Theft: A Case Study on Toronto Bicycle Theft.pdf
+└── presentation
+    └──Presentation_Predicting-Bicycle-Theft-Risk-Using-Big-Data.pdf
 ```
 
 ---
