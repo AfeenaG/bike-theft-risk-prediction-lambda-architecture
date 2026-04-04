@@ -181,5 +181,5 @@ To validate scalability, a clickstream simulator was built using PySpark:
 
 Afeena Gafoor
 
-Master’s in Business Analytics & AI
+Master’s in Business Analytics & AI (ongoing)
 
